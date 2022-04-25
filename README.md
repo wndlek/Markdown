@@ -78,10 +78,6 @@ __double underscores__
 ~~cancelline~~
 
 
-이미지
-![Alt text](/path/to/img.jpg"1")
-![Alt text](/path/to/img.jpg "Optional title")
-
 
 줄바꿈
 3칸 이상 띄어쓰기( )를 하면 줄이 바뀐다.
