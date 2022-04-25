@@ -79,7 +79,7 @@ __double underscores__
 
 
 이미지
-![Alt text](/path/to/img.jpg)
+![Alt text](C:\Users\Administrator\Desktop\주이부이\사진\줌 배경화면)
 ![Alt text](/path/to/img.jpg "Optional title")
 
 
